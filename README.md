@@ -15,7 +15,7 @@
 ---
 
 ### **About Me**
-- I am a self-taught web developer, passionate about solving programming problems, overcoming challenges and building effective and creative web applications.
+- I am a self-taught web developer, passionate about solving programming problems, overcoming challenges and building efficient web applications.
 - I am based in Montreal, Canada.
 - Pronouns: She/Her
 
