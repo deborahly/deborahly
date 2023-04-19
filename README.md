@@ -19,11 +19,8 @@
 - 🏆 I will complete CodeBoxx bootcamp on May 12
 - 🔭 I'm currently working on a mobile food delivery application with Rails and React Native
 - 🌱 I'm currently learning React Native
-
 - 📫 How to reach me: www.linkedin.com/in/deborahyscava 
-
 - 🎯 Open to work: I'm looking for a developer onsite/remote position anywhere in Canada 
-
 - ⚡ Fun fact: I used to work with cinema funding in Brazil 
 
 ---
@@ -59,23 +56,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=deborahly)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deborahly&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
-**deborahly/deborahly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deborahly)](https://github.com/anuraghazra/github-readme-stats)(https://github.com/anuraghazra/github-readme-stats)
