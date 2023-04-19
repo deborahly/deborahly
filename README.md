@@ -16,12 +16,14 @@
 
 ### **About Me**
 - 🙋‍♀️ I'm a self-taught fullstack web/mobile developer based in Montreal, CA
-- 🎯 Open to work: I'm looking for a developer onsite/remote position anywhere in Canada 
 - 🏆 I will complete CodeBoxx bootcamp on May 12
 - 🔭 I'm currently working on a mobile food delivery application with Rails and React Native
 - 🌱 I'm currently learning React Native
+
 - 📫 How to reach me: www.linkedin.com/in/deborahyscava 
-- 😄 Pronouns: she/her
+
+- 🎯 Open to work: I'm looking for a developer onsite/remote position anywhere in Canada 
+
 - ⚡ Fun fact: I used to work with cinema funding in Brazil 
 
 ---
