@@ -55,5 +55,3 @@
 ### **My Stats**
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=deborahly)](https://git.io/streak-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deborahly)](https://github.com/anuraghazra/github-readme-stats)
